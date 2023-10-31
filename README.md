@@ -277,12 +277,17 @@ porurtollplaza.html
 ```
 
 ## OUTPUT
-![Porur](<Outputs/exp 4 porurmap.png>)
-![bakesandcake](Outputs/bakesandcake.png)
-![kattupakkam](Outputs/kattupakkam.png)
-![dessicuppa](Outputs/dessicuppa.png)
-![Shrenagar](Outputs/shreenagar.png)
-![porurtollplaza](Outputs/porurtollplaza.png)
+![image](https://github.com/Mithunlavanyaraj/NearMe/assets/120077786/a3f73a75-c92d-4d41-b167-5166210a5d09)
+![image](https://github.com/Mithunlavanyaraj/NearMe/assets/120077786/aff3b461-e35f-47b3-b0ff-68494744e558)
+![image](https://github.com/Mithunlavanyaraj/NearMe/assets/120077786/491fdc5b-7ca9-4402-8726-ab6fa4e99a66)
+![image](https://github.com/Mithunlavanyaraj/NearMe/assets/120077786/feb92cc9-16a5-48cf-8731-c515132daa5b)
+![image](https://github.com/Mithunlavanyaraj/NearMe/assets/120077786/3263a42b-bf67-41f7-869b-5858b7650854)
+![image](https://github.com/Mithunlavanyaraj/NearMe/assets/120077786/c0249323-e7a5-4b08-bd07-e74b5491667b)
+
+
+
+
+
 ## HTML VALIDATOR
 
 
